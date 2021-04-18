@@ -1,6 +1,6 @@
 # proyectoA4
 
-# **FASE 1
+# FASE 1
 
 ## Esquema Conceptual
 
